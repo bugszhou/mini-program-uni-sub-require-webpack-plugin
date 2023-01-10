@@ -1,0 +1,22 @@
+{
+  "name": "mini-program-uni-sub-require-webpack-plugin",
+  "version": "1.0.0",
+  "description": "subpackage require",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/mini-program-uni-sub-require-webpack-plugin.git"
+  },
+  "author": "yiri.zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugszhou/mini-program-uni-sub-require-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/bugszhou/mini-program-uni-sub-require-webpack-plugin#readme",
+  "dependencies": {
+    "webpack-sources": "^3.2.3"
+  }
+}
