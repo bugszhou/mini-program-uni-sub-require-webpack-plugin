@@ -1,6 +1,6 @@
 {
   "name": "mini-program-uni-sub-require-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "subpackage require",
   "main": "lib/index.js",
   "scripts": {
